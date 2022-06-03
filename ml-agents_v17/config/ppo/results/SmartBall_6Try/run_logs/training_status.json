@@ -1,0 +1,65 @@
+{
+    "SmartBall": {
+        "checkpoints": [
+            {
+                "steps": 999936,
+                "file_path": "results\\SmartBall_6Try\\SmartBall\\SmartBall-999936.onnx",
+                "reward": -0.02257210625192294,
+                "creation_time": 1621883869.691851,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_6Try\\SmartBall\\SmartBall-999936.pt"
+                ]
+            },
+            {
+                "steps": 1499947,
+                "file_path": "results\\SmartBall_6Try\\SmartBall\\SmartBall-1499947.onnx",
+                "reward": 0.06877953116232016,
+                "creation_time": 1621885156.4952514,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_6Try\\SmartBall\\SmartBall-1499947.pt"
+                ]
+            },
+            {
+                "steps": 1999948,
+                "file_path": "results\\SmartBall_6Try\\SmartBall\\SmartBall-1999948.onnx",
+                "reward": 0.05125000304542482,
+                "creation_time": 1621886451.8712413,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_6Try\\SmartBall\\SmartBall-1999948.pt"
+                ]
+            },
+            {
+                "steps": 2499961,
+                "file_path": "results\\SmartBall_6Try\\SmartBall\\SmartBall-2499961.onnx",
+                "reward": -0.044353979348520284,
+                "creation_time": 1621887763.4640548,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_6Try\\SmartBall\\SmartBall-2499961.pt"
+                ]
+            },
+            {
+                "steps": 2668355,
+                "file_path": "results\\SmartBall_6Try\\SmartBall\\SmartBall-2668355.onnx",
+                "reward": 0.043783786933164336,
+                "creation_time": 1621888209.4746447,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_6Try\\SmartBall\\SmartBall-2668355.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2668355,
+            "file_path": "results\\SmartBall_6Try\\SmartBall.onnx",
+            "reward": 0.043783786933164336,
+            "creation_time": 1621888209.4746447,
+            "auxillary_file_paths": [
+                "results\\SmartBall_6Try\\SmartBall\\SmartBall-2668355.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "SmartBoat_PPO": {
+        "checkpoints": [
+            {
+                "steps": 3499978,
+                "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-3499978.onnx",
+                "reward": 0.9090909090909091,
+                "creation_time": 1626888819.011364,
+                "auxillary_file_paths": [
+                    "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-3499978.pt"
+                ]
+            },
+            {
+                "steps": 3999987,
+                "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-3999987.onnx",
+                "reward": 1.0,
+                "creation_time": 1626890969.3095407,
+                "auxillary_file_paths": [
+                    "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-3999987.pt"
+                ]
+            },
+            {
+                "steps": 4499997,
+                "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-4499997.onnx",
+                "reward": 1.0,
+                "creation_time": 1626893124.595976,
+                "auxillary_file_paths": [
+                    "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-4499997.pt"
+                ]
+            },
+            {
+                "steps": 4999972,
+                "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-4999972.onnx",
+                "reward": 1.0,
+                "creation_time": 1626895296.3366094,
+                "auxillary_file_paths": [
+                    "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-4999972.pt"
+                ]
+            },
+            {
+                "steps": 5000100,
+                "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-5000100.onnx",
+                "reward": 1.0,
+                "creation_time": 1626895296.492653,
+                "auxillary_file_paths": [
+                    "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-5000100.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000100,
+            "file_path": "results\\mo_run_14_ppo\\SmartBoat_PPO.onnx",
+            "reward": 1.0,
+            "creation_time": 1626895296.492653,
+            "auxillary_file_paths": [
+                "results\\mo_run_14_ppo\\SmartBoat_PPO\\SmartBoat_PPO-5000100.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

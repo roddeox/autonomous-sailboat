@@ -1,0 +1,29 @@
+{
+    "SmartBall": {
+        "checkpoints": [
+            {
+                "steps": 400058,
+                "file_path": "results\\SmartBall_2Try\\SmartBall\\SmartBall-400058.onnx",
+                "reward": 0.4830000000074506,
+                "creation_time": 1621861988.1342888,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_2Try\\SmartBall\\SmartBall-400058.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 400058,
+            "file_path": "results\\SmartBall_2Try\\SmartBall.onnx",
+            "reward": 0.4830000000074506,
+            "creation_time": 1621861988.1342888,
+            "auxillary_file_paths": [
+                "results\\SmartBall_2Try\\SmartBall\\SmartBall-400058.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

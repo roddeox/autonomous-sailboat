@@ -1,0 +1,47 @@
+{
+    "SmartBall": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-499968.onnx",
+                "reward": -0.1614130515119304,
+                "creation_time": 1621867318.1509774,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-499968.pt"
+                ]
+            },
+            {
+                "steps": 999990,
+                "file_path": "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-999990.onnx",
+                "reward": 0.020294115145909872,
+                "creation_time": 1621868603.0937185,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-999990.pt"
+                ]
+            },
+            {
+                "steps": 1000010,
+                "file_path": "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-1000010.onnx",
+                "reward": 0.02144927291901431,
+                "creation_time": 1621868603.1697361,
+                "auxillary_file_paths": [
+                    "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-1000010.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000010,
+            "file_path": "results\\SmartBall_3Try_HPModified\\SmartBall.onnx",
+            "reward": 0.02144927291901431,
+            "creation_time": 1621868603.1697361,
+            "auxillary_file_paths": [
+                "results\\SmartBall_3Try_HPModified\\SmartBall\\SmartBall-1000010.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
